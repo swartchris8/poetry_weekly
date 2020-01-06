@@ -32,18 +32,26 @@ class BlogPostTemplate extends React.Component {
         />
 
         <Support />
-      
+
         <Subscribe />
 
         {
           <iframe
-            height="52px"
             width="100%"
-            frameborder="no"
+            height="300"
             scrolling="no"
-            seamless
-            src={`https://player.simplecast.com/${post.frontmatter.episodeLink}?dark=true&color=1B2B34`}>
+            frameborder="no"
+            allow="autoplay"
+            src={post.frontmatter.episodeLink}>
           </iframe>
+          // <iframe
+          //   height="52px"
+          //   width="100%"
+          //   frameborder="no"
+          //   scrolling="no"
+          //   seamless
+          //   src={`https://player.simplecast.com/${post.frontmatter.episodeLink}?dark=true&color=1B2B34`}>
+          // </iframe>
         }
 
         <blockquote>{post.frontmatter.description}</blockquote>
