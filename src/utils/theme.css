@@ -1,0 +1,12 @@
+body {
+  --light_blue: #7d94c5;
+  background-color: var(--bg);
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  --bg: #0c1d40;
+  --textNormal: rgba(255, 255, 255, 0.94);
+  --textLink: var(--light_blue);
+  --hr: hsla(0, 0%, 100%, 0.2);
+}
