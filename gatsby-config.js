@@ -1,16 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: 'Daily Green Podcast - Bringing you green options',
-    author: 'Shay Adetunji & Chris Swart',
-    description: 'How can going green help you? The Daily Green Podcast looks at green companies that could help you.',
+    title: 'Weekly Poem',
+    author: 'Chris Swart',
+    description: 'Hand picked weekly poem',
     gitOrg: 'swartchris8',
-    gitRepo: 'http://romantic-rosalind-50c19e.netlify.com/',
-    siteUrl: 'https://romantic-rosalind-50c19e.netlify.com/',
+    gitRepo: 'poetry_weekly',
+    siteUrl: 'https://kind-turing-936163.netlify.com/',
     social: {
       twitter: '@swartchris8',
     },
     feed: {
       rss: 'https://feeds.simplecast.com/9H3Jd25O',
+      soundcloud: 'https://soundcloud.com/user-740510909/',
       google: 'https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvNzA0OS9yc3M%3D',
       apple: 'https://itunes.apple.com/us/podcast/hope-in-source/id1437677655',
       spotify: 'https://open.spotify.com/show/5EXwiyKzPrrucncKyrHy0B',

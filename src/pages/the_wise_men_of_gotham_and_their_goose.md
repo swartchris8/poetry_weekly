@@ -4,7 +4,7 @@ date: '2020-01-06'
 time: '54'
 description: The Wise Men of Gotham and their Goose is a short poem by an unknown author describing the United States struggles with Britain.
 episodeLink: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/739145023&color=%237d94c5&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
-embedUrl: https://soundcloud.com/ahmed-gado-4-1/fdf2
+embedUrl: https://soundcloud.com/user-740510909/wise-men-of-gotham
 ---
 
 ## Original poem

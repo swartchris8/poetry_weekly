@@ -18,12 +18,11 @@ class Intro extends React.Component {
         maxWidth: '472px',
         margin: '0 auto',
       }}>
-        <img src={cover} alt="Daily Green Cover Art"/>
-
+        <img src={cover} alt="Weekly Poem Cover Art"/>
+        <h2> Weekly Poem</h2>
         <p>
           Join{' '}
-          <a href="https://twitter.com/swartchris8">Christiaan Swart</a> and{' '}
-          <a href="https://twitter.com/swartchris8">Shay Adetunji</a> for a biweekly showcase of Green companies that could help you.
+          <a href="https://twitter.com/swartchris8">Christiaan Swart</a> for a weekly poem
         </p>
 
         <Subscribe />

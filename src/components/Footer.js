@@ -16,10 +16,10 @@ class Footer extends React.Component {
       >
         <Subscribe />
         <div>
-          Hosts: Christiaan Swart & Shay Adetunji
+          Hosts: Christiaan Swart
         </div>
         <div>
-          Cover Art: Teemu Paananen from usplash | Music: TBD
+          Cover Ar from unsplash | Music: TBD
         </div>
         <Link
           style={{

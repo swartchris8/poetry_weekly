@@ -10,6 +10,7 @@ const query = graphql`
         siteUrl,
         feed {
           rss
+          soundcloud
           google
           apple
           spotify
@@ -38,6 +39,10 @@ class Subscribe extends React.Component {
               &bull;{' '}
               <a href={metaData.feed.google} target="_blank">
                 Google
+              </a>{' '}
+              &bull;{' '}
+              <a href={metaData.feed.soundcloud} target="_blank">
+                SoundCloud
               </a>{' '}
               &bull;{' '}
               <a href={metaData.feed.rss} target="_blank" rel="noopener noreferrer">
