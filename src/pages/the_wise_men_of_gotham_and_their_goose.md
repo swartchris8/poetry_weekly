@@ -2,7 +2,7 @@
 title: '1: The Wise Men of Gotham and their Goose'
 date: '2020-01-06'
 time: '54'
-description: The Wise Men of Gotham and their Goose is a short poem by an unknown author describing the United States struggles with Britain.
+description: The Wise Men of Gotham and their Goose is from an anonymous mezzoprint pamphlet issued in 1776. A copy can be found in the Library of Congress.
 episodeLink: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/739145023&color=%237d94c5&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
 embedUrl: https://soundcloud.com/user-740510909/wise-men-of-gotham
 ---
@@ -41,4 +41,4 @@ They did, but not an Egg was found
 But Blood came pouring from ye Wound  
 
 ## Notes:
-The Wise Men of Gotham and their Goose is a mezzotint in the Library of Congress, published 16th Feby 1776 by W. Humphrey Gerrard Street Soho.
+The Wise Men of Gotham and their Goose is a mezzotint in the Library of Congress, published 16th Feby 1776 by W. Humphrey of Gerrard Street Soho, London.
